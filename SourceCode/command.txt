@@ -1,0 +1,40 @@
+**user commands**
+
+tags
+commands
+ignore
+unignore
+ignorelist
+nojjang
+super
+clean
+save - only training
+back - only training
+exit
+
+**command users**
+wa - new command wall announce
+admin_goto
+admin_slap
+admin_summon
+admin_spawn
+admin_popup
+check_sb
+admin_silence
+pkick
+unkick
+admin_team
+lobbychat
+forcenat
+send_item
+serverping
+speed
+esp
+kill
+tp2
+tp1
+tpall
+staff - chat staff
+free
+akick
+admin_hide

@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  ODBCRecordset.cpp
+  MDatabase.cpp
+e:\source2022\sourcecode\mdatabase\source\mdatabase.cpp(50): warning C4477: '_snprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+e:\source2022\sourcecode\mdatabase\source\mdatabase.cpp(58): warning C4477: '_snprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'CString'
+e:\source2022\sourcecode\mdatabase\source\mdatabase.cpp(50): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+e:\source2022\sourcecode\mdatabase\source\mdatabase.cpp(58): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1952): note: see declaration of '_snprintf'
+  Generating Code...
+  MDatabase.vcxproj -> E:\Source2022\SourceCode\MDatabase\.\Runtime\Lib\MDatabased.lib

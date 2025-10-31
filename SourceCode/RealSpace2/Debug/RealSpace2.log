@@ -1,0 +1,97 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  stdafx.cpp
+  ABspObject.cpp
+  RBspObject.cpp
+  RHalfEdgeMesh.cpp
+  RMesh.cpp
+  RMesh_Frame.cpp
+  RMesh_Load.cpp
+  RMesh_Mtrl.cpp
+  RMesh_Render.cpp
+  RMeshMgr.cpp
+  RMeshNode.cpp
+  RMeshNodeData.cpp
+  RMeshNodeStringTable.cpp
+  RMeshUtil.cpp
+  RMtrl.cpp
+  rvector.cpp
+  RVisualMesh.cpp
+  RVisualMeshMgr.cpp
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(391): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMesh_Render.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(399): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMesh_Render.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(576): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMesh_Render.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(391): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMesh_Frame.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(399): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMesh_Frame.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(576): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMesh_Frame.cpp)
+  RVisualMeshUtil.cpp
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(391): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RVisualMesh.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(399): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RVisualMesh.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(576): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RVisualMesh.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(391): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Source\RMesh.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(399): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Source\RMesh.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(576): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Source\RMesh.cpp)
+  RAniEventInfo.cpp
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(391): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMeshNode.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(399): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMeshNode.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(391): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMesh_Load.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(399): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMesh_Load.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(576): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMeshNode.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(576): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMesh_Load.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(391): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMesh_Mtrl.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(399): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMesh_Mtrl.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(391): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file ABspObject.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(576): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RMesh_Mtrl.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(399): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file ABspObject.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(576): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file ABspObject.cpp)
+  RAnimation.cpp
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(391): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Source\RBspObject.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(399): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Source\RBspObject.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(576): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Source\RBspObject.cpp)
+  RAnimationFile.cpp
+  RAnimationMgr.cpp
+  RAnimationNode.cpp
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(391): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RVisualMeshUtil.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(399): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RVisualMeshUtil.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(576): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RVisualMeshUtil.cpp)
+  RBoundary.cpp
+  RCharCloth.cpp
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(391): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RVisualMeshMgr.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(399): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RVisualMeshMgr.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(576): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file source\RVisualMeshMgr.cpp)
+  RCloth.cpp
+e:\source2022\sourcecode\realspace2\source\rvisualmesh.cpp(515): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  RCylinder.cpp
+  RSphere.cpp
+  RCollisionDetection.cpp
+e:\source2022\sourcecode\realspace2\source\rvisualmesh.cpp(1615): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\source2022\sourcecode\realspace2\source\rvisualmesh.cpp(1622): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\source2022\sourcecode\realspace2\source\rvisualmesh.cpp(1687): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  RDummyList.cpp
+  RDynamicLight.cpp
+  RLenzFlare.cpp
+  RLightList.cpp
+  RMaterialList.cpp
+  ROcclusionList.cpp
+  RPVS.cpp
+  RRoam.cpp
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(391): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Source\RCharCloth.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(399): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Source\RCharCloth.cpp)
+e:\source2022\sourcecode\realspace2\include\rvisualmesh.h(576): warning C4067: unexpected tokens following preprocessor directive - expected a newline (compiling source file Source\RCharCloth.cpp)
+  RSolidBsp.cpp
+  RAStar.cpp
+  RNavigationMesh.cpp
+  RNavigationNode.cpp
+  RBaseTexture.cpp
+  RCamera.cpp
+  RError.cpp
+  RFont.cpp
+  RParticleSystem.cpp
+  RShaderMgr.cpp
+  RToken.cpp
+  RealSpace2.cpp
+  RFrameWork.cpp
+  RTypes.cpp
+  XBspObject.cpp
+e:\source2022\sourcecode\realspace2\source\rbspobject.cpp(255): warning C4715: 'RealSpace2::RMapObjectList::Delete': not all control paths return a value
+  RealSpace2.vcxproj -> E:\Source2022\SourceCode\RealSpace2\.\Runtime\Lib\RealSpace2d.lib

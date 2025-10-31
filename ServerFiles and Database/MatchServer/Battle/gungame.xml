@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML id="gungame">
+
+	<RULE maxlevel="25" randomize="true" sortspecial="last" />
+
+	<WEAPONSET level="1" special="false">
+		<WEAPON id="68" parts="melee" />
+		<WEAPON id="4001" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>
+
+	<WEAPONSET level="2" special="false">
+		<WEAPON id="32" parts="melee" />
+		<WEAPON id="4019" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>	
+
+	<WEAPONSET level="3" special="false">
+		<WEAPON id="68" parts="melee" />
+		<WEAPON id="5005" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>
+
+	<WEAPONSET level="4" special="false">
+		<WEAPON id="32" parts="melee" />
+		<WEAPON id="6001" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>
+
+	<WEAPONSET level="5" special="false">
+		<WEAPON id="61" parts="melee" />
+		<WEAPON id="6001" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>			
+		
+	<WEAPONSET level="6" special="false">
+		<WEAPON id="64" parts="melee" />
+		<WEAPON id="8004" parts="primary" />
+		<WEAPON id="7001" parts="secondary" />
+	</WEAPONSET>	
+
+	<WEAPONSET level="7" special="false">
+		<WEAPON id="32" parts="melee" />
+		<WEAPON id="9001" parts="primary" />
+		<WEAPON id="30301" parts="secondary" />
+	</WEAPONSET>	
+
+	<WEAPONSET level="8" special="false">
+		<WEAPON id="64" parts="melee" />
+		<WEAPON id="6007" parts="primary" />
+		<WEAPON id="6008" parts="secondary" />
+	</WEAPONSET>
+
+	<WEAPONSET level="9" special="false">
+		<WEAPON id="64" parts="melee" />
+		<WEAPON id="5010" parts="primary" />
+		<WEAPON id="4516" parts="secondary" />
+	</WEAPONSET>	
+
+	<WEAPONSET level="10" special="false">
+		<WEAPON id="1" parts="melee" />
+		<WEAPON id="4503" parts="primary" />
+		<WEAPON id="9002" parts="secondary" />
+	</WEAPONSET>	
+
+	<WEAPONSET level="11" special="false">
+		<WEAPON id="68" parts="melee" />
+		<WEAPON id="4001" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>
+
+	<WEAPONSET level="12" special="false">
+		<WEAPON id="64" parts="melee" />
+		<WEAPON id="4019" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>	
+
+	<WEAPONSET level="13" special="false">
+		<WEAPON id="1" parts="melee" />
+		<WEAPON id="5005" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>
+
+	<WEAPONSET level="14" special="false">
+		<WEAPON id="64" parts="melee" />
+		<WEAPON id="6001" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>
+
+	<WEAPONSET level="15" special="false">
+		<WEAPON id="64" parts="melee" />
+		<WEAPON id="6001" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>			
+		
+	<WEAPONSET level="16" special="false">
+		<WEAPON id="1" parts="melee" />
+		<WEAPON id="8004" parts="primary" />
+		<WEAPON id="7001" parts="secondary" />
+	</WEAPONSET>	
+
+	<WEAPONSET level="17" special="false">
+		<WEAPON id="64" parts="melee" />
+		<WEAPON id="9001" parts="primary" />
+		<WEAPON id="30301" parts="secondary" />
+	</WEAPONSET>	
+
+	<WEAPONSET level="18" special="false">
+		<WEAPON id="64" parts="melee" />
+		<WEAPON id="6007" parts="primary" />
+		<WEAPON id="6008" parts="secondary" />
+	</WEAPONSET>
+
+	<WEAPONSET level="19" special="false">
+		<WEAPON id="65" parts="melee" />
+		<WEAPON id="5010" parts="primary" />
+		<WEAPON id="4516" parts="secondary" />
+	</WEAPONSET>	
+
+	<WEAPONSET level="20" special="false">
+		<WEAPON id="35" parts="melee" />
+		<WEAPON id="4503" parts="primary" />
+		<WEAPON id="9002" parts="secondary" />
+	</WEAPONSET>	
+
+	<WEAPONSET level="21" special="false">
+		<WEAPON id="71" parts="melee" />
+		<WEAPON id="4001" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>
+
+	<WEAPONSET level="22" special="false">
+		<WEAPON id="63" parts="melee" />
+		<WEAPON id="4503" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>
+
+	<WEAPONSET level="23" special="false">
+		<WEAPON id="35" parts="melee" />
+		<WEAPON id="7004" parts="primary" />
+		<WEAPON id="9002" parts="secondary" />
+	</WEAPONSET>
+
+	<WEAPONSET level="24" special="false">
+		<WEAPON id="35" parts="melee" />
+		<WEAPON id="4503" parts="primary" />
+		<WEAPON id="9002" parts="secondary" />
+	</WEAPONSET>
+
+	<WEAPONSET level="25" special="false">
+		<WEAPON id="35" parts="melee" />
+		<WEAPON id="8001" parts="primary" />
+		<WEAPON id="0" parts="secondary" />
+	</WEAPONSET>							
+
+</XML>

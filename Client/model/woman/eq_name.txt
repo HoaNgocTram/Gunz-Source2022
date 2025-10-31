@@ -1,0 +1,5 @@
+eq_chest_indef
+eq_feet_indef
+eq_hair_indef
+eq_hands_indef
+eq_legs_indef

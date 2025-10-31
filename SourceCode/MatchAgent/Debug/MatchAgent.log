@@ -1,0 +1,30 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1395,5): warning MSB8012: TargetPath(E:\Source2022\SourceCode\MatchAgent\Runtime\MatchAgent.exe) does not match the Linker's OutputFile property value (E:\Source2022\SourceCode\MatchAgent\Runtime\MatchAgentD.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetName(MatchAgent) does not match the Linker's OutputFile property value (MatchAgentD). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+ChildFrm.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+CSCommond.lib(MMatchBuff.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MBaseChannelRule.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MQuestNPC.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MQuestMap.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MNewQuestScenario.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MMatchWorldItemDesc.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MSacrificeQItemTable.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MMatchEventFactory.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MMatchGunGame.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MMatchShutdown.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MBaseStringResManager.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MMatchFormula.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MMatchShop.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MMatchItem.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MXmlParser.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MMatchMap.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MMatchEvent.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+MAgentConfig.obj : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+cmld.lib(MXml.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+cmld.lib(MZFileSystem.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+CSCommond.lib(MMatchServer.obj) : error LNK2001: unresolved external symbol "void __stdcall _com_issue_error(long)" (?_com_issue_error@@YGXJ@Z)
+cmld.lib(MXml.obj) : error LNK2019: unresolved external symbol "wchar_t * __stdcall _com_util::ConvertStringToBSTR(char const *)" (?ConvertStringToBSTR@_com_util@@YGPA_WPBD@Z) referenced in function "public: __thiscall _bstr_t::Data_t::Data_t(char const *)" (??0Data_t@_bstr_t@@QAE@PBD@Z)
+cmld.lib(MXml.obj) : error LNK2019: unresolved external symbol "char * __stdcall _com_util::ConvertBSTRToString(wchar_t *)" (?ConvertBSTRToString@_com_util@@YGPADPA_W@Z) referenced in function "public: char const * __thiscall _bstr_t::Data_t::GetString(void)const " (?GetString@Data_t@_bstr_t@@QBEPBDXZ)
+cmld.lib(MXml.obj) : error LNK2019: unresolved external symbol "void __stdcall _com_issue_errorex(long,struct IUnknown *,struct _GUID const &)" (?_com_issue_errorex@@YGXJPAUIUnknown@@ABU_GUID@@@Z) referenced in function "public: long __thiscall MSXML::IXMLError::GetErrorInfo(struct MSXML::_xml_error *)" (?GetErrorInfo@IXMLError@MSXML@@QAEJPAU_xml_error@2@@Z)
+cmld.lib(MXml.obj) : error LNK2019: unresolved external symbol "long __cdecl _com_dispatch_method(struct IDispatch *,long,unsigned short,unsigned short,void *,wchar_t const *,...)" (?_com_dispatch_method@@YAJPAUIDispatch@@JGGPAXPB_WZZ) referenced in function "public: long __thiscall MSXML::XMLDOMDocumentEvents::ondataavailable(void)" (?ondataavailable@XMLDOMDocumentEvents@MSXML@@QAEJXZ)
+Runtime\MatchAgentD.exe : fatal error LNK1120: 5 unresolved externals

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML >
+
+	<AddXml name="b_zealot_red" 	filename="model/npc/zealot/b_zealot_red.xml" autoload = "false">  </AddXml>
+	<AddXml name="b_zealot_blue" 	filename="model/npc/zealot/b_zealot_blue.xml" autoload = "false">  </AddXml>
+	<AddXml name="b_cleric_red" 	filename="model/npc/cleric/b_cleric_red.xml" autoload = "false">  </AddXml>
+	<AddXml name="b_cleric_blue" 	filename="model/npc/cleric/b_cleric_blue.xml" autoload = "false">  </AddXml>
+	<AddXml name="b_knight_red" 	filename="model/npc/knight/b_knight_red.xml" autoload = "false">  </AddXml>
+	<AddXml name="b_knight_blue" 	filename="model/npc/knight/b_knight_blue.xml" autoload = "false">  </AddXml>
+	<AddXml name="b_terminator_red" 	filename="model/npc/terminator/b_terminator_red.xml" autoload = "false">  </AddXml>
+	<AddXml name="b_terminator_blue" 	filename="model/npc/terminator/b_terminator_blue.xml" autoload = "false">  </AddXml>
+	<AddXml name="guardian" 	filename="model/npc/guardian/guardian.xml" autoload = "false">  </AddXml>
+	<AddXml name="radar_red" 	filename="model/npc/radar/radar_red.xml" autoload = "false">  </AddXml>
+	<AddXml name="radar_blue" 	filename="model/npc/radar/radar_blue.xml" autoload = "false">  </AddXml>
+	<AddXml name="blitzbox" 	filename="model/npc/blitzbox/blitzbox.xml" autoload = "false">  </AddXml>
+	<AddXml name="barricade_red" 	filename="model/npc/barricade/barricade_red.xml" autoload = "false">  </AddXml>
+	<AddXml name="barricade_blue" 	filename="model/npc/barricade/barricade_blue.xml" autoload = "false">  </AddXml>
+	<AddXml name="b_knifeman_red" 	filename="model/npc/b_knifeman/b_knifeman_red.xml" autoload = "false">  </AddXml>
+	<AddXml name="b_knifeman_blue" 	filename="model/npc/b_knifeman/b_knifeman_blue.xml" autoload = "false">  </AddXml>
+	<AddXml name="b_grenadier_red" 	filename="model/npc/b_grenadier/b_grenadier_red.xml" autoload = "false">  </AddXml>
+	<AddXml name="b_grenadier_blue" 	filename="model/npc/b_grenadier/b_grenadier_blue.xml" autoload = "false">  </AddXml>	
+
+</XML>

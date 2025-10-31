@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML >
+	<AddXml name="knifeman" 	filename="model/npc/knifeman/knifeman.xml" autoload = "false">  </AddXml>
+	<AddXml name="knifeman2" 	filename="model/npc/knifeman/knifeman2.xml" autoload = "false">  </AddXml>
+	<AddXml name="knifeman3" 	filename="model/npc/knifeman/knifeman3.xml" autoload = "false">  </AddXml>
+	<AddXml name="hunter" 	filename="model/npc/hunter/hunter.xml" autoload = "false">  </AddXml>
+	<AddXml name="hunter2" 	filename="model/npc/hunter/hunter2.xml" autoload = "false">  </AddXml>
+	<AddXml name="hunter3" 	filename="model/npc/hunter/hunter3.xml" autoload = "false">  </AddXml>
+	<AddXml name="rifleman" 	filename="model/npc/rifleman/rifleman.xml" autoload = "false">  </AddXml>
+	<AddXml name="rifleman2" 	filename="model/npc/rifleman/rifleman2.xml" autoload = "false">  </AddXml>
+	<AddXml name="rifleman3" 	filename="model/npc/rifleman/rifleman3.xml" autoload = "false">  </AddXml>
+	<AddXml name="robot" 	filename="model/npc/robot/robot.xml" autoload = "false">  </AddXml>
+	<AddXml name="psychic" 	filename="model/npc/psychic/psychic.xml" autoload = "false">  </AddXml>
+    <AddXml name="Scrider" 	filename="model/npc/Scrider/Scrider.xml" autoload = "false">  </AddXml>
+	<AddXml name="general" 	filename="model/npc/general/general.xml" autoload = "false">  </AddXml>
+	<AddXml name="charger" 	filename="model/npc/charger/charger1.xml" autoload = "false">  </AddXml>
+	<AddXml name="charger2" 	filename="model/npc/charger/charger2.xml" autoload = "false">  </AddXml>
+	<AddXml name="charger3" 	filename="model/npc/charger/charger3.xml" autoload = "false">  </AddXml>
+	<AddXml name="shooter" 	filename="model/npc/shooter/shooter1.xml" autoload = "false">  </AddXml>
+	<AddXml name="shooter2" 	filename="model/npc/shooter/shooter2.xml" autoload = "false">  </AddXml>
+	<AddXml name="shooter3" 	filename="model/npc/shooter/shooter3.xml" autoload = "false">  </AddXml>
+	<AddXml name="disposer" 	filename="model/npc/disposer/disposer1.xml" autoload = "false">  </AddXml>
+	<AddXml name="disposer2" 	filename="model/npc/disposer/disposer2.xml" autoload = "false">  </AddXml>
+	<AddXml name="disposer3" 	filename="model/npc/disposer/disposer3.xml" autoload = "false">  </AddXml>
+	<AddXml name="chaser" 	filename="model/npc/chaser/chaser.xml" autoload = "false">  </AddXml>
+	<AddXml name="tower" 	filename="model/npc/tower/tower.xml" autoload = "false">  </AddXml>
+	<AddXml name="assassin" 	filename="model/npc/assassin/assassin.xml" autoload = "false">  </AddXml>
+	<AddXml name="chaserex" 	filename="model/npc/chaser/chaserex.xml" autoload = "false">  </AddXml>
+	<AddXml name="towerex" 	filename="model/npc/tower/towerex.xml" autoload = "false">  </AddXml>
+	<AddXml name="assassinex" 	filename="model/npc/assassin/assassinex.xml" autoload = "false">  </AddXml>	
+	
+	<AddXml name="scrider" 	filename="model/npc/scrider/Scrider.xml" autoload = "false">  </AddXml>	
+
+</XML>

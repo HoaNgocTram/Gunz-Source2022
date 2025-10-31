@@ -1,0 +1,92 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+e:\source2022\sourcecode\cscommon\include\realcpnet.h(42): warning C4091: 'typedef ': ignored on left of 'RCP_IO_OPERATION' when no variable is declared
+e:\source2022\sourcecode\cscommon\include\mmatchrule.h(144): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\source2022\sourcecode\cscommon\include\mmatchserver.h(427): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\source2022\sourcecode\cscommon\include\mmatchserver.h(721): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\source2022\sourcecode\matchserver\stdafx.h(68): warning C4005: '_QUEST_ITEM': macro redefinition
+  e:\source2022\sourcecode\cscommon\mfeaturedefine.h(21): note: see previous definition of '_QUEST_ITEM'
+e:\source2022\sourcecode\matchserver\stdafx.h(69): warning C4005: '_MONSTER_BIBLE': macro redefinition
+  e:\source2022\sourcecode\cscommon\mfeaturedefine.h(22): note: see previous definition of '_MONSTER_BIBLE'
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  MBMatchGameOnAuth.cpp
+  MBMatchKillTracker.cpp
+  MBMatchSecurity.cpp
+  MBMatchGameGuard.cpp
+  MBMatchNHNRTA.cpp
+  MBMatchNHNAuth.cpp
+  XTrap4Server.cpp
+  MBMatchXTrapCC.cpp
+  MBMatchAuth.cpp
+  MBMatchNetmarbleBilling.cpp
+  UnitTest.cpp
+  TestMMatchObjectHistory.cpp
+  TestDuelTournamentMatchMaker.cpp
+  TestConnectHistory.cpp
+  TestResourceCRC32Cache_ServerClient.cpp
+  TestCRCStage.cpp
+  TestCRCPlayer.cpp
+  TestCRCNetModule.cpp
+  TestCRC32Server.cpp
+  MBMatchTest_Killtracker.cpp
+  Generating Code...
+  Compiling...
+  MBMatchTest_Gameguard.cpp
+  MBMatchTest.cpp
+  MMatchServer_Schedule.cpp
+  MBMatchServer_Stage.cpp
+e:\source2022\sourcecode\cscommon\include\mmatchruleduel.h(37): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  MBMatchServer_ServerKeeper.cpp
+  MBMatchServer_OnCommand.cpp
+e:\source2022\sourcecode\realspace2\include\rvector.h(4): warning C4005: 'ASSERT': macro redefinition
+  c:\program files\microsoft visual studio\2022\community\vc\tools\msvc\14.16.27023\atlmfc\include\afx.h(366): note: see previous definition of 'ASSERT'
+  MBMatchServer_Login.cpp
+  MBMatchServer_Item.cpp
+  MBMatchServer_CountryFilter.cpp
+  MBMatchServer_AntiHack.cpp
+  MBMatchAsyncDBJob_BringBackAccountItemStackable.cpp
+  MBMatchAsyncDBJob_BringBackAccountItem.cpp
+  MBMatchAsyncDBJob_BringAccountItemStackable.cpp
+  MBMatchAsyncDBJob_BringAccountItem.cpp
+  OnProcessAsyncJob.cpp
+e:\source2022\sourcecode\realspace2\include\rvector.h(4): warning C4005: 'ASSERT': macro redefinition
+  c:\program files\microsoft visual studio\2022\community\vc\tools\msvc\14.16.27023\atlmfc\include\afx.h(366): note: see previous definition of 'ASSERT'
+  MBMatchAsyncJob_GetCpuInfo.cpp
+  MBMatchAsyncDBJob_UpdateEquipItem.cpp
+  MBMatchAsyncDBJob_UpdateCharPlayInfo.cpp
+  MBMatchAsyncDBJob_UpdateCharLevel.cpp
+  MBMatchAsyncDBJob_TakeoffItem.cpp
+  Generating Code...
+  Compiling...
+  MBMatchAsyncDBJob_SellItem.cpp
+  MBMatchAsyncDBJob_NHNLogin.cpp
+  MBMatchAsyncDBJob_NetmarbleLogin.cpp
+  MBMatchAsyncDBJob_GameOnLogin.cpp
+  MBMatchAsyncDBJob_GambleQuestItem.cpp
+  MBMatchAsyncDBJob_GambleItem.cpp
+  MBMatchAsyncDBJob_Character.cpp
+  MBMatchAsyncDBJob_BuyBountyItem.cpp
+  MBMatchServerConfigReloader.cpp
+  MBMatchServer.cpp
+  TrayIcon.cpp
+  StackWalker.cpp
+e:\source2022\sourcecode\matchserver\stackwalker\stackwalker.h(120): warning C4091: 'typedef ': ignored on left of 'StackWalker::CallstackEntryType' when no variable is declared
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\dbghelp.h(1540): warning C4091: 'typedef ': ignored on left of '<unnamed-enum-hdBase>' when no variable is declared
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\dbghelp.h(3056): warning C4091: 'typedef ': ignored on left of '<unnamed-enum-sfImage>' when no variable is declared
+e:\source2022\sourcecode\matchserver\stackwalker\stackwalker.cpp(356): warning C4091: 'typedef ': ignored on left of 'StackWalkerInternal::IMAGEHLP_MODULE64_V2' when no variable is declared
+  OutputView.cpp
+  MatchServerView.cpp
+  MatchServerDoc.cpp
+  MatchServer.cpp
+  MainFrm.cpp
+  ExceptionAttacher.cpp
+  crash.cpp
+e:\source2022\sourcecode\matchserver\stackwalker\stackwalker.h(120): warning C4091: 'typedef ': ignored on left of 'StackWalker::CallstackEntryType' when no variable is declared
+  CommandLogView.cpp
+  Generating Code...
+  Compiling...
+  ChildFrm.cpp
+  Generating Code...
+ChildFrm.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+  MatchServer.vcxproj -> E:\Source2022\SourceCode\MatchServer\.\Runtime\MatchServerd.exe

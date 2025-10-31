@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Platforms\Win32\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: Support for targeting Windows XP is deprecated and will not be present in future releases of Visual Studio. Please see https://go.microsoft.com/fwlink/?linkid=2023588 for more information.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Starting CXR, the literal string encryptor. Copyright 2002, Smaller Animals Software Inc.
+  CXR created: cxr_test.h
+  Starting CXR, the literal string encryptor. Copyright 2002, Smaller Animals Software Inc.
+  CXR created: cxr_MMatchItem.h
+  Starting CXR, the literal string encryptor. Copyright 2002, Smaller Animals Software Inc.
+  CXR created: cxr_MMatchBuff.h
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  StringLiteral.cpp
+  StringLiteral.vcxproj -> E:\Source2022\SourceCode\StringLiteral\.\Runtime\Lib\StringLiterald.lib

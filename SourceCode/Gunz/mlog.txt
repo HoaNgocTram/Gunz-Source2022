@@ -1,0 +1,15 @@
+GUNZ: the license key is correct and it worked: Jul 14 2021 17:26:30
+Repack VIP
+CPU ID = GenuineIntel ( family = 774 , model = 10 , stepping = 9 ) @ 3392 MHz
+Display Device = NVIDIA GeForce GTX 950 ( vendor=10de device=1402 subsys=36c51458 revision=a1 )
+Display Driver Version = 30.0.0014.7111
+Windows = 6.2 Build 9200 , n/a (64-bit) (2097151KB) :  Windows 8..
+Load XML from memory : system/locale.xml- SUCCESS
+Country : (USA), Language : (USA)
+Load Config from file : config.xml- SUCCESS
+Load XML from memory : system/system.xml- SUCCESS
+Load XML from memory : system/strings.xml(0x0009) - SUCCESS
+Load XML from memory : system/cserror.xml(0x0009) - SUCCESS
+Load XML from memory : system/messages.xml(0x0009) - SUCCESS
+Load XML from memory : system/gametypecfg.xml 
+Dmp ok.

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML id="channel">
+	<DEFAULTCHANNELNAME name="STR:CHANNEL_DEFAULT_NAME"/>
+	<DEFAULTRULENAME name="elite"/>
+
+	<CHANNEL name="STR:CHANNEL_DEFAULT_NAME" maxplayers="50" rule="elite"/>
+	<CHANNEL name="Event" maxplayers="50" rule="elite"/>
+
+	<!--<CHANNEL name="STR:CHANNEL_NEWBIE_NAME" maxplayers="200" rule="newbie" levelmin='1' levelmax='5'/>
+
+	<CHANNEL name="STR:CHANNEL_NEWBIE2_NAME" maxplayers="200" rule="newbie" levelmin='1' levelmax='10'/>
+
+	<CHANNEL name="STR:CHANNEL_ROOKIE_NAME" maxplayers="200" rule="rookie" levelmin='11' levelmax='20'/>
+
+	<CHANNEL name="STR:CHANNEL_MASTERY_NAME_1" maxplayers="200" rule="mastery" levelmin='21'/>
+	
+	<CHANNEL name="STR:CHANNEL_ELITE_NAME1" maxplayers="200" rule="elite" levelmin='35'/>-->
+
+    <CHANNEL name="STR:CHANNEL_DUELTOURNAMENT_NAME_1" maxplayers="50" rule="dueltournament" IsDuelTournament="true"/>
+
+    <CHANNEL name="STR:CHANNEL_LADDER" maxplayers="50" isLadderWars="true"/>
+
+</XML>
