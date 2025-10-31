@@ -15,6 +15,7 @@
 - Gun game Mode
 ### Client feature
 - New Antilead System
+- New Custom Encrypt MRS
 - Room Tags
 - Custom Rank Color UGrande
 - Dash Corlor
