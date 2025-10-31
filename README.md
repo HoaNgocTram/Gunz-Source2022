@@ -6,6 +6,28 @@
 - Visual Studio 2022
 - Build Release_Desperate Win32
 
+## Feature
+### Game Modes
+- All Original Game Modes
+- Ladder Mode
+- Skill Map Mode
+- Spy Mode
+- Gun game Mode
+### Client feature
+- New Antilead System
+- Room Tags
+- Custom Rank Color UGrande
+- Dash Corlor
+- Sword Trail
+- Dmg Counter
+- Show PFS
+- Kill Feed
+- Kill Streak
+- Spark Shot
+- Camera Distance
+- New Chat
+- Chat Emoji
+  
 ## Contact
 - [Discord](https://discord.gg/JkxeQ4P78Q)
 - [Website](https://gunz.vn)
